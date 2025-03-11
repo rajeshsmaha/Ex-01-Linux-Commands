@@ -1,6 +1,6 @@
 # Ex-01: Linux Commands
-## Name: AJAY M
-## Reg no: 212223040009
+## Name: D.Rajeshwaran
+## Reg no: 212223040165
 ## Aim:
 To study the execution of various Linux operating system commands.
 
